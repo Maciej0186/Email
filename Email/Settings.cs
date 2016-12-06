@@ -30,5 +30,8 @@ namespace Email
             
             return true;
         }
+
+        public void DosentRun()
+        { }
     }
 }
