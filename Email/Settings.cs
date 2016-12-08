@@ -33,5 +33,9 @@ namespace Email
 
         public void DosentRun()
         { }
+
+        public void SomeMethod()
+        { }
+
     }
 }
