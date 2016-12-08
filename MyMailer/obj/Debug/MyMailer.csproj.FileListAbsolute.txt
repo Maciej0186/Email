@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\bin\Debug\MyMailer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\bin\Debug\MyMailer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\bin\Debug\MyMailer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\obj\Debug\MyMailer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\obj\Debug\MyMailer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\obj\Debug\MyMailer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Email\MyMailer\obj\Debug\MyMailer.pdb

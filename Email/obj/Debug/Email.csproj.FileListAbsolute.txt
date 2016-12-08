@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe.config
-c:\users\user\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe
-c:\users\user\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.pdb
-c:\users\user\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.exe
-c:\users\user\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.pdb
-C:\Users\user\Documents\Visual Studio 2015\Projects\Email\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
