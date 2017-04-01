@@ -14,6 +14,7 @@ namespace MyMailer
     {
         public Form1()
         {
+            //komentarz tylko dla gita
             InitializeComponent();
         }
     }
