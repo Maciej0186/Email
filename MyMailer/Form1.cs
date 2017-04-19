@@ -16,6 +16,7 @@ namespace MyMailer
         {
             //komentarz tylko dla gita
             InitializeComponent();
+            // kolejny koment
         }
     }
 }
